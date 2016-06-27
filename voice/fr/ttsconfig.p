@@ -114,10 +114,10 @@ string('off_route.ogg', "vous avez dévié de l''itinéraire depuis").
 string('back_on_route.ogg', 'vous êtes de retour sur la route ').
 
 % STREET NAME PREPOSITIONS
-string('onto.ogg', 'sur ').
-string('on.ogg', 'sur ').
-string('to.ogg', 'vers ').
-string('toward.ogg', 'vers ').
+string('onto.ogg', 'sur la ').
+string('on.ogg', 'sur la ').
+string('to.ogg', 'vers la ').
+string('toward.ogg', 'vers la ').
 
 % DISTANCE UNIT SUPPORT
 string('meters.ogg', 'mètres ').
